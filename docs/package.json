@@ -23,7 +23,7 @@
   "license": "MIT",
   "dependencies": {
     "color": "^2.0.1",
-    "component-docs": "^0.14.4",
+    "component-docs": "https://github.com/callstack/component-docs#b1e58806cc6874f5c5f6407ddc6e5601419e7ee4",
     "linaria": "^1.0.0-beta.8"
   }
 }
